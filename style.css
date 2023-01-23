@@ -97,6 +97,7 @@ a {
 
 input {
     border-style: dashed;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 #msg {
