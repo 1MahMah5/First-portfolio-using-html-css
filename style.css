@@ -102,6 +102,7 @@ input {
 #msg {
     resize: none;
     border-style: dashed;
+    border-width: 2px;
 }
 
 #sub {
