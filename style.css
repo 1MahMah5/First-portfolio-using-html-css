@@ -111,6 +111,7 @@ input {
     width: 10em;
     height: 3em;
     border-color: grey;
+    cursor: pointer;
 }
 
 @media (max-width: 1200px)  {
